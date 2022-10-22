@@ -1,4 +1,4 @@
-import React from 'react'
+import {React, useState} from 'react'
 import './About.css'
 import ME from '../../assets/Me3.jpeg'
 import {FcAbout} from 'react-icons/fc'
@@ -6,6 +6,7 @@ import {FiUsers} from 'react-icons/fi'
 import {AiFillProject} from 'react-icons/ai'
 
 const About = () => {
+  const [setActive] = useState('#')
   return (
     <section id='About'>
       <h2>About Me:</h2>
@@ -44,7 +45,7 @@ const About = () => {
             I am a second-year computer science student at Georgia Institute of Technology
             with threads in Intelligence and Modeling & Simulation
           </p>
-          <a href="#contact" className='btn btn-primary'>Let's talk</a>
+          <a href="#Contacts" onClick={() => setActive('#Contacts')} className='btn btn-primary'>Let's talk</a>
         </div>
       </div>
     </section>

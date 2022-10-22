@@ -49,7 +49,7 @@ const data = [
     id: 5,
     image: IMG5,
     title: 'Webscraper (incomplete)',
-    github: 'https://github.com',
+    github: 'https://github.com/tvermani13/Web-Scraper',
     demo: 'https://github.com'
   },
   {
