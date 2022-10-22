@@ -21,21 +21,21 @@ const data = [
     id: 1,
     image: IMG1,
     title: 'ACT Driving Simulator',
-    github: 'https://github.com',
+    github: 'https://github.com/tvermani13/VIP-Projects',
     demo: 'https://github.com'
   },
   {
     id: 2,
     image: IMG2,
     title: 'Campus Discovery',
-    github: 'https://github.com',
+    github: 'https://github.gatech.edu/Team-31-TUHAJS/Campus-Discovery',
     demo: 'https://github.com'
   }, 
   {
     id: 3,
     image: IMG3,
     title: 'CSV Data Processing',
-    github: 'https://github.com',
+    github: 'https://github.com/tvermani13/CSV-Data-Cleanup/tree/main',
     demo: 'https://github.com'
   }, 
   {
@@ -43,7 +43,7 @@ const data = [
     image: IMG4,
     title: 'Frintz',
     github: 'https://github.com',
-    demo: 'https://github.com'
+    demo: 'https://frintz.com/'
   }, 
   {
     id: 5,
