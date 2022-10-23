@@ -64,7 +64,7 @@ const data = [
 const Projects = () => {
   return (
     <section id='Projects'>
-      <h5>My Recent Work (Swipe)</h5>
+      <h5>My Recent Work</h5>
       <h2>Projects</h2>
       <div className='portfolio__container'>
         {/* <Swiper className="container project__container" pagination={true} modules={[Pagination]} > */}
