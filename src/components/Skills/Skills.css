@@ -150,3 +150,30 @@ root {
     text-align: left;
     margin-bottom: 2rem;
 }
+
+/* ============ MEDIA QUERUES (MEDIUM DEVICES) ================== */
+@media screen and (max-width: 1024px) {
+     .skills__container {
+        grid-template-columns: 1fr;
+     }
+
+     .skills__container > div {
+        width: 80%;
+        padding: 2rem;
+        margin: 0 auto;
+    }
+
+}
+
+/* ============ MEDIA QUERUES (SMALL DEVICES) ================== */
+@media screen and (max-width: 600px) {
+    .skills__container {
+        grid-template-columns: 1fr;
+     }
+
+     .skills__container > div {
+        width: 80%;
+        padding: 2rem;
+        margin: 0 auto;
+    }
+}

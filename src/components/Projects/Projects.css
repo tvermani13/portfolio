@@ -34,7 +34,7 @@
 
 /* ============ MEDIA QUERUES (MEDIUM DEVICES) ================== */
 @media screen and (max-width: 1024px) {
-    .project__container {
+    .portfolio__container {
         grid-template-columns: 1fr 1fr;
         gap: 1.2rem;
     }
@@ -43,8 +43,8 @@
 
 /* ============ MEDIA QUERUES (SMALL DEVICES) ================== */
 @media screen and (max-width: 600px) {
-    .project__container {
-        grid-template-columns: 1fr;
+    .portfolio__container {
+        grid-template-columns: 1fr 1fr;
         gap: 1rem;
     }
 
