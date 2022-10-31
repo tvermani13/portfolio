@@ -20,7 +20,7 @@ const dataWorkExperience = [
 const dataReleventCoursework = [
   {
     title: "Intro to Robotics and Perception",
-    description: "Course on AI, ML, python programming, simulation of robots, etc."
+    description: "Course on Machine Learning, Computer Vision, Deep Learning, Python, NumPy, Robot simulation, etc."
   },
   {
     title: "Data Structures and Algorithms",
