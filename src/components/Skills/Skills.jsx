@@ -64,7 +64,7 @@ const languages = [
       id: "6",
       icon: <SiCplusplus />,
       skill: "C, C++",
-      level: "20"
+      level: "40"
   },
 ]
 
