@@ -29,6 +29,10 @@ const dataReleventCoursework = [
   {
     title: "Computer Programming and Organization",
     description: "Course on Circuits, Assembly, C programming"
+  }, 
+  {
+    title: "Objects and Design",
+    description: "Full-stack web development course; AGILE, SOLID, GRASP"
   }
 ]
 
