@@ -4,6 +4,10 @@ import {BsPatchCheckFill} from 'react-icons/bs'
 
 const dataWorkExperience = [
   {
+    title: "Carrier Global",
+    description: "Software Engineering and Architecture"
+  },
+  {
     title: "Wakefern Food Corp",
     description: "SWE Internship: JSP, Java backend development"
   },
