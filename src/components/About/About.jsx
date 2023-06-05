@@ -42,7 +42,7 @@ const About = () => {
           </div>
 
           <p>
-            I am a second-year computer science student at Georgia Institute of Technology
+            I am a third-year computer science student at Georgia Institute of Technology
             with threads in Intelligence and Modeling & Simulation
           </p>
           <a href="#Contacts" onClick={() => setActive('#Contacts')} className='btn btn-primary'>Let's talk</a>
