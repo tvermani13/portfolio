@@ -4,6 +4,8 @@ import {AiOutlineHome, AiOutlineUser, AiFillProject} from 'react-icons/ai'
 import {BiBook} from 'react-icons/bi'
 import {GiSkills} from 'react-icons/gi'
 import {RiContactsFill} from 'react-icons/ri'
+import { RiTimeLine } from "react-icons/ri";
+
 
 
 const Navigation = () => {
@@ -12,6 +14,7 @@ const Navigation = () => {
     <nav>
       <a href="#Home" onClick={() => setActiveNav('#')} className={activeNav === '#' ? 'active' : ''}><AiOutlineHome/></a>
       <a href="#About" onClick={() => setActiveNav('#About')} className={activeNav === '#About' ? 'active' : ''}><AiOutlineUser/></a>
+      <a href="#Timeline" onClick={() => setActiveNav('#Timeline')} className={activeNav === '#Timeline' ? 'active' : ''}><RiTimeLine /></a>
       <a href="#Skills" onClick={() => setActiveNav('#Skills')} className={activeNav === '#Skills' ? 'active' : ''}><GiSkills/></a>
       <a href="#Experience" onClick={() => setActiveNav('#Experience')} className={activeNav === '#Experience' ? 'active' : ''}><BiBook/></a>
       <a href="#Projects" onClick={() => setActiveNav('#Projects')} className={activeNav === '#Projects' ? 'active' : ''}><AiFillProject/></a>

@@ -34,9 +34,7 @@ def fetch_public_repositories():
 
 if __name__ == "__main__":
     try:
-        repositories = fetch_public_repositories()
-        # repositories = fetch_all_repositories()
-        
+        repositories = fetch_public_repositories()        
         for repo in repositories:
             print(f"Repository Name: {repo['name']}, URL: {repo['html_url']}")
     except Exception as e:
