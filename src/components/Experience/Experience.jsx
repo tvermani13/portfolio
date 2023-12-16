@@ -23,20 +23,24 @@ const dataWorkExperience = [
 
 const dataReleventCoursework = [
   {
-    title: "Intro to Robotics and Perception",
-    description: "Course on Machine Learning, Computer Vision, Deep Learning, Python, NumPy, Robot simulation, etc."
+    title: "Machine Learning",
+    description: "Inductive, analytical, numerical, and theoretical approaches to ML."
   },
   {
     title: "Data Structures and Algorithms",
     description: "Course on Binary Trees, HashMaps, Graph Algorithms, etc. "
   },
   {
-    title: "Computer Programming and Organization",
-    description: "Course on Circuits, Assembly, C programming"
+    title: "Systems and Networking",
+    description: "System structure and networking, abstractions in OS; usage of computing resources."
   }, 
   {
     title: "Objects and Design",
     description: "Full-stack web development course; AGILE, SOLID, GRASP"
+  },
+  {
+    title: "Design and Analysis of Algorithms",
+    description: "Design and analysis of efficient algorithms for computational problems."
   }
 ]
 
