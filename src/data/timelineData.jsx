@@ -1,5 +1,18 @@
 const timelineData = [
     {
+        text: 'Backend Engineer: SCC-IT',
+        date: 'Jan 2024 - Current',
+        category: {
+            tag: 'Project',
+            color: '#FF0000'
+        },
+        link: {
+            url:
+                'https://www.corporate.carrier.com',
+            text: 'NSF'
+        }
+    },
+    {
         text: 'SWE&A @ Carrier Digital Foundry',
         date: 'May-Sept 2023',
         category: {
