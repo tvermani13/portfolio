@@ -8,7 +8,7 @@ const timelineData = [
         },
         link: {
             url:
-                'https://www.corporate.carrier.com',
+                'https://scc-it.ce.gatech.edu',
             text: 'NSF'
         }
     },
