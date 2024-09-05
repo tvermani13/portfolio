@@ -4,6 +4,14 @@ import {BsPatchCheckFill} from 'react-icons/bs'
 
 const dataWorkExperience = [
   {
+    title: "CVS Health",
+    description: "MongoDB Auto Encryption for PPI/PHI Compliance"
+  },
+  {
+    title: "NSF SCC-IT Project",
+    description: "Architected Firebase db/funcitons"
+  },
+  {
     title: "Carrier Global",
     description: "Internet of Things: SWE and Architecture"
   },
@@ -47,7 +55,7 @@ const dataReleventCoursework = [
 const Experience = () => {
   return (
     <section id='Experience'>
-      <h2> My Experience </h2>
+      <h2> Experience </h2>
 
       <div className="container experience__container">
 

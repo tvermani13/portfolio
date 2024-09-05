@@ -17,9 +17,9 @@ const App = () => {
             <Header />
             <Navigation />
             <About />
-            <Timeline data={timelineData}/>
-            <Skills />
             <Experience />
+            <Timeline data={timelineData}/>
+            <Skills />            
             <Projects />
             <Contacts />
             <Footer />

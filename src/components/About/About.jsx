@@ -42,8 +42,8 @@ const About = () => {
           </div>
 
           <p>
-            I am a third-year computer science student at Georgia Institute of Technology
-            with threads in Intelligence and Modeling & Simulation
+            I am a graduate computer science student at Georgia Institute of Technology
+            studying machine learning.
           </p>
           <a href="#Contacts" onClick={() => setActive('#Contacts')} className='btn btn-primary'>Let's talk</a>
         </div>
