@@ -1,5 +1,18 @@
 const timelineData = [
     {
+        text: 'SWE Intern @ CVS Health',
+        date: 'May - Aug 2024',
+        category: {
+            tag: 'Internship',
+            color: '#018f69'
+        },
+        link: {
+            url:
+                'cvshealth.com',
+            text: 'CVS'
+        }
+    },
+    {
         text: 'Backend Engineer: SCC-IT',
         date: 'Jan 2024 - Current',
         category: {
@@ -14,7 +27,7 @@ const timelineData = [
     },
     {
         text: 'SWE&A @ Carrier Digital Foundry',
-        date: 'May-Sept 2023',
+        date: 'Ma - Sept 2023',
         category: {
             tag: 'Internship',
             color: '#018f69'
@@ -27,7 +40,7 @@ const timelineData = [
     },
     {
         text: 'Study Abroad @ GTE',
-        date: 'Jan-May 2023',
+        date: 'Jan - May 2023',
         category: {
             tag: 'School',
             color: '#318CE7'
@@ -40,7 +53,7 @@ const timelineData = [
     }, 
     {
         text: 'Campus Discovery @ Georgia Tech',
-        date: 'August-December 2022',
+        date: 'August - December 2022',
         category: {
             tag: 'Project',
             color: '#FF0000'
@@ -53,7 +66,7 @@ const timelineData = [
     },
     {
         text: 'SWE @ Wakefern',
-        date: 'June-Aug 2022',
+        date: 'June - Aug 2022',
         category: {
             tag: 'Internship',
             color: '#018f69'
@@ -79,7 +92,7 @@ const timelineData = [
     }, 
     {
         text: 'Accounting Intern @ Strictly Accounting',
-        date: 'Jan-June 2021',
+        date: 'Jan - June 2021',
         category: {
             tag: 'Internship',
             color: '#018f69'
