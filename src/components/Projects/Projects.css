@@ -22,6 +22,12 @@
     overflow: hidden;
 }
 
+.portfolio__item-image img {
+    width: 100%;
+    height: 200px; /* Fixed height for all images */
+    object-fit: cover; /* This will maintain aspect ratio while filling the container */
+}
+
 .portfolio__item h3 {
     margin: 1.2rem 0 2rem;
 }
