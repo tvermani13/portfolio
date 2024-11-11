@@ -36,7 +36,8 @@ const About = () => {
             <article className="about__card">
                <FcAbout className="about__icon"/>
               <h5> Education </h5>
-              <small> Georgia Tech B.S 2021-present </small>
+              <small> Georgia Tech B.S 2021-24</small>
+              <small> Georgia Tech M.S 2024-25 </small>
             </article>
 
           </div>
