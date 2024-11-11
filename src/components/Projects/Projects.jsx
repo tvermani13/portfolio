@@ -1,11 +1,11 @@
 import React from 'react'
 import './Projects.css'
-import IMG1 from '../../assets/ACT-logo.jpg'
-import IMG2 from '../../assets/CampusDiscovery.png'
-import IMG3 from '../../assets/CSV.png'
+import IMG0 from '../../assets/coachingconsulting.png'
+import IMG1 from '../../assets/credit.jpg'
+import IMG2 from '../../assets/ACT-logo.jpg'
+import IMG3 from '../../assets/CampusDiscovery.png'
 import IMG4 from '../../assets/Frintz-logo.png'
-import IMG5 from '../../assets/WebScraper.png'
-import IMG6 from '../../assets/React.png'
+import IMG5 from '../../assets/React.png'
 
 
 // import { Swiper, SwiperSlide } from "swiper/react";
@@ -18,24 +18,31 @@ import IMG6 from '../../assets/React.png'
 
 const data = [
   {
-    id: 1,
+    id: 0,
     image: IMG1,
+    title: 'Predicting Credit Risk (in progress)',
+    github: 'https://github.com/Predicting-Credit-Risk/predicting-credit-risk',
+    demo: 'https://predicting-credit-risk.streamlit.app'
+  },
+  {
+    id: 1,
+    image: IMG2,
     title: 'ACT Driving Simulator',
     github: 'https://github.com/tvermani13/VIP-Projects'
     // demo: 'https://github.com'
   },
   {
     id: 2,
-    image: IMG2,
+    image: IMG3,
     title: 'Campus Discovery',
     github: 'https://github.gatech.edu/Team-31-TUHAJS/Campus-Discovery'
     // demo: 'https://github.com'
   }, 
   {
     id: 3,
-    image: IMG3,
-    title: 'CSV Data Processing',
-    github: 'https://github.com/tvermani13/CSV-Data-Cleanup/tree/main'
+    image: IMG0,
+    title: 'Coaching and Consulting (in progress)',
+    github: 'https://github.com/tvermani13/coaching-consulting'
     // demo: 'https://github.com'
   }, 
   {
@@ -45,16 +52,10 @@ const data = [
     github: 'https://github.com'
     // demo: 'https://frintz.com/'
   }, 
-  {
-    id: 5,
-    image: IMG5,
-    title: 'Webscraper (incomplete)',
-    github: 'https://github.com/tvermani13/Web-Scraper'
-    // demo: 'https://github.com'
-  },
+
   {
     id: 6,
-    image: IMG6,
+    image: IMG5,
     title: 'React Portfolio (this site)',
     github: 'https://github.com/tvermani13/professional-portfolio'
     // demo: 'https://tvermani13.github.io/professional-portfolio/'
