@@ -4,6 +4,10 @@ import {BsPatchCheckFill} from 'react-icons/bs'
 
 const dataWorkExperience = [
   {
+    title: "CIO: Investment Management Club",
+    description: "Led initiative: Quanititative methods informing fundamental strategies"
+  },
+  {
     title: "CVS Health",
     description: "MongoDB Auto Encryption for PPI/PHI Compliance"
   },

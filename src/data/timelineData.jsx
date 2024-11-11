@@ -1,5 +1,18 @@
 const timelineData = [
     {
+        text: 'CIO: Investmenet Management Club',
+        date: 'Jan 2024 - Current',
+        category: {
+            tag: 'Project',
+            color: '#FF0000'
+        },
+        link: {
+            url:
+                'https://gtinvestmentclub.com',
+            text: 'GT IMC'
+        }
+    },
+    {
         text: 'SWE Intern @ CVS Health',
         date: 'May - Aug 2024',
         category: {
