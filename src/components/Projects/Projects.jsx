@@ -57,8 +57,8 @@ const data = [
     id: 6,
     image: IMG5,
     title: 'React Portfolio (this site)',
-    github: 'https://github.com/tvermani13/professional-portfolio'
-    // demo: 'https://tvermani13.github.io/professional-portfolio/'
+    github: 'https://github.com/tvermani13/portfolio'
+    // demo: 'https://tvermani13.github.io/portfolio/'
   }  
 ]
 
