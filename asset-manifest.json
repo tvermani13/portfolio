@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.b354609d.css",
-    "main.js": "/portfolio/static/js/main.0e7aed5b.js",
+    "main.js": "/portfolio/static/js/main.bdf12d3c.js",
     "static/media/Me3.jpeg": "/portfolio/static/media/Me3.d83b43b911ebb7175d96.jpeg",
     "static/media/Frintz-logo.png": "/portfolio/static/media/Frintz-logo.24f6daac7a64060f373b.png",
     "static/media/Headshot.png": "/portfolio/static/media/Headshot.74626a65b0801e5957e5.png",
@@ -14,10 +14,10 @@
     "static/media/React.png": "/portfolio/static/media/React.ef20e673b9282f8f30fd.png",
     "index.html": "/portfolio/index.html",
     "main.b354609d.css.map": "/portfolio/static/css/main.b354609d.css.map",
-    "main.0e7aed5b.js.map": "/portfolio/static/js/main.0e7aed5b.js.map"
+    "main.bdf12d3c.js.map": "/portfolio/static/js/main.bdf12d3c.js.map"
   },
   "entrypoints": [
     "static/css/main.b354609d.css",
-    "static/js/main.0e7aed5b.js"
+    "static/js/main.bdf12d3c.js"
   ]
 }
