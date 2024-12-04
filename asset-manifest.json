@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.b354609d.css",
-    "main.js": "/portfolio/static/js/main.b81ed64a.js",
+    "main.js": "/portfolio/static/js/main.def6bd87.js",
     "static/media/Me3.jpeg": "/portfolio/static/media/Me3.d83b43b911ebb7175d96.jpeg",
     "static/media/Frintz-logo.png": "/portfolio/static/media/Frintz-logo.24f6daac7a64060f373b.png",
     "static/media/Headshot.png": "/portfolio/static/media/Headshot.74626a65b0801e5957e5.png",
@@ -10,14 +10,15 @@
     "static/media/background_1.png": "/portfolio/static/media/background_1.a4e2f6f897af969a6384.png",
     "static/media/CampusDiscovery.png": "/portfolio/static/media/CampusDiscovery.4f7d5a7952760ab96601.png",
     "static/media/credit.jpg": "/portfolio/static/media/credit.4db4280d54085677eed6.jpg",
+    "static/media/Bank.png": "/portfolio/static/media/Bank.f65f18c88233f17de01e.png",
     "static/media/coachingconsulting.png": "/portfolio/static/media/coachingconsulting.06c346749e6d4412af5a.png",
     "static/media/React.png": "/portfolio/static/media/React.ef20e673b9282f8f30fd.png",
     "index.html": "/portfolio/index.html",
     "main.b354609d.css.map": "/portfolio/static/css/main.b354609d.css.map",
-    "main.b81ed64a.js.map": "/portfolio/static/js/main.b81ed64a.js.map"
+    "main.def6bd87.js.map": "/portfolio/static/js/main.def6bd87.js.map"
   },
   "entrypoints": [
     "static/css/main.b354609d.css",
-    "static/js/main.b81ed64a.js"
+    "static/js/main.def6bd87.js"
   ]
 }
