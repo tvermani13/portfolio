@@ -20,36 +20,12 @@ const Projects = () => {
       demo: 'https://predicting-credit-risk-jysg5sq5rq6dbfuznc5cqz.streamlit.app'
     },
     {
-      id: 1,
-      image: IMG2,
-      title: 'ACT Driving Simulator',
-      github: 'https://github.com/tvermani13/VIP-Projects',
-      hasDemo: false,
-      // demo: 'https://github.com'
-    },
-    {
-      id: 2,
-      image: IMG3,
-      title: 'Campus Discovery',
-      github: 'https://github.gatech.edu/Team-31-TUHAJS/Campus-Discovery',
-      hasDemo: false,
-      // demo: 'https://github.com' ?? DEPLOY?
-    }, 
-    {
       id: 3,
       image: IMG0,
       title: 'Coaching and Consulting (in progress)',
       github: 'https://github.com/tvermani13/coaching-consulting',
       hasDemo: true,
       demo: 'https://coaching-consulting.vercel.app'
-    },
-    {
-      id: 5,
-      image: IMG5,
-      title: 'React Portfolio (this site)',
-      github: 'https://github.com/tvermani13/portfolio',
-      hasDemo: true,
-      demo: 'https://tvermani13.github.io/portfolio/'
     },
     {
       id: 6,
@@ -64,9 +40,35 @@ const Projects = () => {
       image: IMG7,
       title: 'Databases Fullstack',
       github: "https://github.com/tvermani13/databases-fullstack",
+      hasDemo: false,
+      // demo: "https://databases-fullstack.vercel.app"
+    },
+    {
+      id: 2,
+      image: IMG3,
+      title: 'Campus Discovery',
+      github: 'https://github.gatech.edu/Team-31-TUHAJS/Campus-Discovery',
+      hasDemo: false,
+      // demo: 'https://github.com' ?? DEPLOY?
+    }, 
+    {
+      id: 5,
+      image: IMG5,
+      title: 'React Portfolio (this site)',
+      github: 'https://github.com/tvermani13/portfolio',
       hasDemo: true,
-      demo: "https://databases-fullstack.vercel.app"
+      demo: 'https://tvermani13.github.io/portfolio/'
+    },
+    {
+      id: 1,
+      image: IMG2,
+      title: 'ACT Driving Simulator',
+      github: 'https://github.com/tvermani13/VIP-Projects',
+      hasDemo: false,
+      // demo: 'https://github.com'
     }
+    
+    
   ];
 
   return (
@@ -84,7 +86,7 @@ const Projects = () => {
                 <div className="portfolio__item-cta">
                   <a href= {github} className="btn" rel="noreferrer" target='_blank'>Github</a>
                   {hasDemo && (
-                    <a href={demo} target="_blank" rel="noopener noreferrer">
+                    <a href={demo} className="btn" target="_blank" rel="noopener noreferrer">
                       Demo
                     </a>
                   )}
