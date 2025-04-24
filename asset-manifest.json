@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.b354609d.css",
-    "main.js": "/portfolio/static/js/main.2b7df286.js",
+    "main.js": "/portfolio/static/js/main.b12ffec2.js",
     "static/media/Me3.jpeg": "/portfolio/static/media/Me3.d83b43b911ebb7175d96.jpeg",
-    "static/media/Frintz-logo.png": "/portfolio/static/media/Frintz-logo.24f6daac7a64060f373b.png",
+    "static/media/dva.png": "/portfolio/static/media/dva.f3015a8049eee20fcd16.png",
     "static/media/Headshot.png": "/portfolio/static/media/Headshot.74626a65b0801e5957e5.png",
     "static/media/Resume.pdf": "/portfolio/static/media/Resume.950766e716303adac6c9.pdf",
     "static/media/ACT-logo.jpg": "/portfolio/static/media/ACT-logo.b9df9fc22ad204116910.jpg",
@@ -15,10 +15,10 @@
     "static/media/React.png": "/portfolio/static/media/React.ef20e673b9282f8f30fd.png",
     "index.html": "/portfolio/index.html",
     "main.b354609d.css.map": "/portfolio/static/css/main.b354609d.css.map",
-    "main.2b7df286.js.map": "/portfolio/static/js/main.2b7df286.js.map"
+    "main.b12ffec2.js.map": "/portfolio/static/js/main.b12ffec2.js.map"
   },
   "entrypoints": [
     "static/css/main.b354609d.css",
-    "static/js/main.2b7df286.js"
+    "static/js/main.b12ffec2.js"
   ]
 }
